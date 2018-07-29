@@ -3,7 +3,6 @@ description = iMMAP Theme is a Drupal 7 theme. <br>Developed by RzQBuchek | <a h
 core = 7.x
 engine = phptemplate
 
-stylesheets[all][] = font-awesome/css/font-awesome.min.css
 stylesheets[all][] = css/bootstrap.min.css
 ;stylesheets[all][] = css/materialize.min.css
 stylesheets[all][] = css/flexslider.css
